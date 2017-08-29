@@ -2,5 +2,7 @@
 CNN First Practice Project
 
 
-<font size = 5>Object Recognition using CNN</font>
+<h2>Object Recognition using CNN</h2>
+
+
 
